@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "msw": "^2.0.9",
+    "vitest": "^1.0.4"
+  }
+}
